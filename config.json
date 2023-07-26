@@ -1,0 +1,19 @@
+{
+    "bot_token": "BOT TOKEN",
+    "bot_status": "discord.gg/shopy",
+    "capmonster_key": "CAPMONSTER KEY",
+    "proxyless": true,
+    "field_name_invite": "https://discord.gg/shopy",
+    "change_server_nick": true,
+    "server_nick": ".gg/shopy",
+    "guildID": "SERVER ID",
+    "ownerID": [
+        YOUR ID
+    ],
+    "adminID": [
+        YOR ID
+    ],
+    "order_log_webhook": "WEBHOOK URL",
+    "boost_log_webhook": "WEBHOOK URL",
+    "boost_failed_log_webhook": "WEBHOOK URL"
+}
