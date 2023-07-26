@@ -8,10 +8,10 @@
     "server_nick": ".gg/shopy",
     "guildID": "SERVER ID",
     "ownerID": [
-        YOUR ID
+        123
     ],
     "adminID": [
-        YOR ID
+        123
     ],
     "order_log_webhook": "WEBHOOK URL",
     "boost_log_webhook": "WEBHOOK URL",
